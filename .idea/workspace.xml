@@ -2,9 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc93e3a8-5eda-49c3-8d9d-87461ce439e5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/montage/Scan5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/photography/other/light2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/websites/maps3.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/alhambra/pattern1.png" afterPath="$PROJECT_DIR$/images/alhambra/pattern1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/alhambra/pattern2.png" afterPath="$PROJECT_DIR$/images/alhambra/pattern2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/alhambra/pattern3.png" afterPath="$PROJECT_DIR$/images/alhambra/pattern3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/coding/video.png" afterPath="$PROJECT_DIR$/images/coding/video.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/brnoPoster.png" afterPath="$PROJECT_DIR$/images/design/brnoPoster.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/enlargement.png" afterPath="$PROJECT_DIR$/images/design/enlargement.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/inthefuture.png" afterPath="$PROJECT_DIR$/images/design/inthefuture.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/pearltacular.png" afterPath="$PROJECT_DIR$/images/design/pearltacular.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/twinOriginal.png" afterPath="$PROJECT_DIR$/images/design/twinOriginal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/twinPoster.png" afterPath="$PROJECT_DIR$/images/design/twinPoster.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/drawing/drawingBody.png" afterPath="$PROJECT_DIR$/images/drawing/drawingBody.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/drawing/drawingFacialFeatures.png" afterPath="$PROJECT_DIR$/images/drawing/drawingFacialFeatures.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/drawing/drawingHands.png" afterPath="$PROJECT_DIR$/images/drawing/drawingHands.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/drawing/lifeDrawing.png" afterPath="$PROJECT_DIR$/images/drawing/lifeDrawing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/drawing/liza.jpg" afterPath="$PROJECT_DIR$/images/drawing/liza.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/drawing/milk.jpg" afterPath="$PROJECT_DIR$/images/drawing/milk.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/drawing/queenie.jpg" afterPath="$PROJECT_DIR$/images/drawing/queenie.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/montage/Scan0.jpg" afterPath="$PROJECT_DIR$/images/montage/Scan0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/montage/Scan1.jpg" afterPath="$PROJECT_DIR$/images/montage/Scan1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/montage/Scan2.jpg" afterPath="$PROJECT_DIR$/images/montage/Scan2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/montage/Scan3.jpg" afterPath="$PROJECT_DIR$/images/montage/Scan3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/montage/Scan4.jpg" afterPath="$PROJECT_DIR$/images/montage/Scan4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/montage/Scan6.jpg" afterPath="$PROJECT_DIR$/images/montage/Scan6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/montage/monoprint1.png" afterPath="$PROJECT_DIR$/images/montage/monoprint1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/montage/monoprint2.png" afterPath="$PROJECT_DIR$/images/montage/monoprint2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/painting/abandonedShack.jpg" afterPath="$PROJECT_DIR$/images/painting/abandonedShack.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/painting/cryingFace.jpg" afterPath="$PROJECT_DIR$/images/painting/cryingFace.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/painting/handOnShoulder.jpg" afterPath="$PROJECT_DIR$/images/painting/handOnShoulder.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/painting/inCar.jpg" afterPath="$PROJECT_DIR$/images/painting/inCar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/painting/outWindow.jpg" afterPath="$PROJECT_DIR$/images/painting/outWindow.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/painting/ozzy.jpg" afterPath="$PROJECT_DIR$/images/painting/ozzy.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/insomnia/insomnia1.png" afterPath="$PROJECT_DIR$/images/photography/insomnia/insomnia1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/insomnia/insomnia2.png" afterPath="$PROJECT_DIR$/images/photography/insomnia/insomnia2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/insomnia/insomnia3.png" afterPath="$PROJECT_DIR$/images/photography/insomnia/insomnia3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/insomnia/insomniaMain.png" afterPath="$PROJECT_DIR$/images/photography/insomnia/insomniaMain.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/other/light1.jpg" afterPath="$PROJECT_DIR$/images/photography/other/light1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/other/photography1.png" afterPath="$PROJECT_DIR$/images/photography/other/photography1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/other/photography2.png" afterPath="$PROJECT_DIR$/images/photography/other/photography2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/other/photography3.png" afterPath="$PROJECT_DIR$/images/photography/other/photography3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/other/photography5.png" afterPath="$PROJECT_DIR$/images/photography/other/photography5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photography/other/photography6.png" afterPath="$PROJECT_DIR$/images/photography/other/photography6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sharkFin/cartoon1.png" afterPath="$PROJECT_DIR$/images/sharkFin/cartoon1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sharkFin/cartoon2.png" afterPath="$PROJECT_DIR$/images/sharkFin/cartoon2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sharkFin/cartoon3.png" afterPath="$PROJECT_DIR$/images/sharkFin/cartoon3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sharkFin/photo1.png" afterPath="$PROJECT_DIR$/images/sharkFin/photo1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sharkFin/photo2.png" afterPath="$PROJECT_DIR$/images/sharkFin/photo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sharkFin/photo3.png" afterPath="$PROJECT_DIR$/images/sharkFin/photo3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/type/typeDesign.png" afterPath="$PROJECT_DIR$/images/type/typeDesign.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/type/typeDesignAll.png" afterPath="$PROJECT_DIR$/images/type/typeDesignAll.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/websites/maps1.png" afterPath="$PROJECT_DIR$/images/websites/maps1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/websites/maps2.png" afterPath="$PROJECT_DIR$/images/websites/maps2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/websites/maps4.png" afterPath="$PROJECT_DIR$/images/websites/maps4.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/aboutMe.html" afterPath="$PROJECT_DIR$/htmlPages/aboutMe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/artwork.html" afterPath="$PROJECT_DIR$/htmlPages/artwork.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/coding.html" afterPath="$PROJECT_DIR$/htmlPages/coding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/design.html" afterPath="$PROJECT_DIR$/htmlPages/design.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/photog.html" afterPath="$PROJECT_DIR$/htmlPages/photog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/brno.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/brno.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/card.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/card.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/enlargement.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/enlargement.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/homeControl.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/homeControl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/insomnia.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/insomnia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/inthefuture.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/inthefuture.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/maps.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/maps.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/pattern.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/pattern.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/pearltacular.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/pearltacular.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/sharkFin.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/sharkFin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/shoppingList.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/shoppingList.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/twinPoster.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/twinPoster.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htmlPages/subPages/type.html" afterPath="$PROJECT_DIR$/htmlPages/subPages/type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +92,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+      <file leaf-file-name="sharkFin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/sharkFin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="712">
-              <caret line="337" column="1" lean-forward="false" selection-start-line="337" selection-start-column="1" selection-end-line="337" selection-end-column="1" />
+            <state relative-caret-position="149">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -32,18 +105,90 @@
       <file leaf-file-name="maps.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/htmlPages/subPages/maps.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="147" lean-forward="false" selection-start-line="32" selection-start-column="147" selection-end-line="32" selection-end-column="168" />
+            <state relative-caret-position="120">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="homeControl.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="enlargement.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/enlargement.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="card.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/card.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="brno.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/brno.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homeControl.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/htmlPages/subPages/homeControl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="46" column="177" lean-forward="false" selection-start-line="46" selection-start-column="177" selection-end-line="46" selection-end-column="177" />
+            <state relative-caret-position="59">
+              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inthefuture.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/inthefuture.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insomnia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/insomnia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1505077552000" expanded="true" signature="2981:2993" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pearltacular.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pearltacular.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pattern.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pattern.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,28 +228,28 @@
         <option value="$PROJECT_DIR$/css/lightbox.css" />
         <option value="$PROJECT_DIR$/pattern.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/brno.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/enlargement.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/inthefuture.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/pearltacular.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/twinPoster.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/sharkFin.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/type.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/htmlPages/coding.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/card.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/shoppingList.html" />
-        <option value="$PROJECT_DIR$/htmlPages/artwork.html" />
-        <option value="$PROJECT_DIR$/htmlPages/photog.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/insomnia.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/htmlPages/design.html" />
-        <option value="$PROJECT_DIR$/htmlPages/aboutMe.html" />
         <option value="$PROJECT_DIR$/cv/cv.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/htmlPages/photog.html" />
+        <option value="$PROJECT_DIR$/htmlPages/design.html" />
+        <option value="$PROJECT_DIR$/htmlPages/coding.html" />
+        <option value="$PROJECT_DIR$/htmlPages/artwork.html" />
+        <option value="$PROJECT_DIR$/htmlPages/aboutMe.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/type.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/twinPoster.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/sharkFin.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/shoppingList.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/pearltacular.html" />
         <option value="$PROJECT_DIR$/htmlPages/subPages/pattern.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/maps.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/inthefuture.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/insomnia.html" />
         <option value="$PROJECT_DIR$/htmlPages/subPages/homeControl.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/maps.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/enlargement.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/card.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/brno.html" />
       </list>
     </option>
   </component>
@@ -115,8 +260,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="111" />
+    <option name="x" value="164" />
+    <option name="y" value="96" />
     <option name="width" value="1622" />
     <option name="height" value="886" />
   </component>
@@ -136,6 +281,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -145,6 +291,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="portFolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portFolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portFolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lightbox2-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,7 +370,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,15 +490,16 @@
       <workItem from="1504945448150" duration="3099000" />
       <workItem from="1505000854940" duration="108000" />
       <workItem from="1505008043903" duration="4000" />
-      <workItem from="1505008052110" duration="718000" />
+      <workItem from="1505008052110" duration="1428000" />
+      <workItem from="1505073265117" duration="1899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49101000" />
+    <option name="totallyTimeSpent" value="51710000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="111" width="1622" height="886" extended-state="0" />
+    <frame x="164" y="96" width="1622" height="886" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12804498" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -415,7 +575,7 @@
         <state relative-caret-position="105">
           <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding>
-            <marker date="1504952654000" expanded="true" signature="2741:2751" ph="..." />
+            <marker date="1505076968000" expanded="true" signature="2812:2822" ph="..." />
           </folding>
         </state>
       </provider>
@@ -532,7 +692,7 @@
         <state relative-caret-position="75">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="81" />
           <folding>
-            <marker date="1504952654000" expanded="true" signature="2741:2751" ph="..." />
+            <marker date="1505076968000" expanded="true" signature="2812:2822" ph="..." />
           </folding>
         </state>
       </provider>
@@ -570,163 +730,185 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/mixitup.min.js" />
     <entry file="file://$PROJECT_DIR$/js/script.js" />
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/inthefuture.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="74" lean-forward="false" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/brno.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="74" lean-forward="false" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pearltacular.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="74" lean-forward="false" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/enlargement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/twinPoster.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/sharkFin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="29" column="105" lean-forward="false" selection-start-line="29" selection-start-column="105" selection-end-line="29" selection-end-column="122" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/coding.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="50" column="138" lean-forward="false" selection-start-line="50" selection-start-column="138" selection-end-line="50" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/card.html" />
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/shoppingList.html" />
-    <entry file="file://$PROJECT_DIR$/htmlPages/design.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="70" column="7" lean-forward="false" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
-          <folding>
-            <marker date="1504948591000" expanded="true" signature="3853:3860" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cv/cv.html" />
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pattern.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="5055">
+          <caret line="337" column="1" lean-forward="false" selection-start-line="337" selection-start-column="1" selection-end-line="337" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1504948524000" expanded="true" signature="3796:3817" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/insomnia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <marker date="1504948460000" expanded="true" signature="2886:2898" ph="..." />
+            <marker date="1505076944000" expanded="true" signature="3924:3945" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/htmlPages/photog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        <state relative-caret-position="135">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding>
-            <marker date="1504948447000" expanded="true" signature="2302:2307" ph="..." />
+            <marker date="1505076944000" expanded="true" signature="2394:2399" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/design.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="70" />
+          <folding>
+            <marker date="1505076944000" expanded="true" signature="3925:3932" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/coding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/aboutMe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+          <folding>
+            <marker date="1505076968000" expanded="true" signature="2812:2822" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/htmlPages/artwork.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="90" column="7" lean-forward="false" selection-start-line="90" selection-start-column="7" selection-end-line="90" selection-end-column="7" />
+        <state relative-caret-position="135">
+          <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
           <folding>
-            <marker date="1504948394000" expanded="true" signature="6853:6874" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/aboutMe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
-          <folding>
-            <marker date="1504952654000" expanded="true" signature="2741:2751" ph="..." />
+            <marker date="1505076958000" expanded="true" signature="6782:6803" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        <state relative-caret-position="135">
+          <caret line="9" column="73" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1504947915000" expanded="true" signature="2052:2518" ph="..." />
+            <marker date="1505076989000" expanded="true" signature="2131:2602" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/twinPoster.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="337" column="1" lean-forward="false" selection-start-line="337" selection-start-column="1" selection-end-line="337" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="73" lean-forward="false" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/shoppingList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/sharkFin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pearltacular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pattern.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/inthefuture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/insomnia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1505077552000" expanded="true" signature="2981:2993" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/homeControl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/htmlPages/subPages/maps.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="147" lean-forward="false" selection-start-line="32" selection-start-column="147" selection-end-line="32" selection-end-column="168" />
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/homeControl.html">
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/enlargement.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="46" column="177" lean-forward="false" selection-start-line="46" selection-start-column="177" selection-end-line="46" selection-end-column="177" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/brno.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
