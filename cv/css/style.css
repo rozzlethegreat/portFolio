@@ -1,0 +1,203 @@
+*{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    font-family: 'Bitter';
+}
+
+#container{
+    width: 1250px;
+    margin: 20px auto;
+}
+
+h1 {
+    font-size: 48px;
+    vertical-align: top;
+    padding-top: 30px;
+}
+
+header{
+    margin: 30px 8%;
+}
+
+
+header > *{
+    display: inline-block;
+}
+
+.header-text{
+    font-size: 15px;
+    vertical-align: top;
+    margin-top: 25px;
+}
+
+.image {
+    height: 150px;
+    margin: 0 30px 0 30px;
+}
+
+#timeline{
+    margin-top: 50px;
+    height: 200px;
+}
+
+.text{
+    font-size: 13px;
+    width: 370px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+}
+
+.text-edge{
+    margin: 0;
+}
+
+.title{
+    text-decoration: underline;
+    font-size: 13px;
+}
+
+.ref{
+    display: inline-block;
+    margin-right: 30px;
+}
+
+@media screen and (max-width:1300px) and (min-width:1100px) {
+    #container{
+        width: 1050px;
+        margin: 20px auto;
+    }
+    .text{
+        font-size: 13px;
+        width: 270px;
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 50px;
+    }
+    header{
+        margin: 5px 5px 40px 5px;
+    }
+
+    .header-text{
+        font-size: 15px;
+        vertical-align: top;
+        margin-top: 25px;
+    }
+
+    .image {
+        height: 150px;
+        margin: 0 30px 0 30px;
+    }
+}
+
+@media screen and (max-width:1099px) and (min-width:800px) {
+    #container{
+        width: 850px;
+    }
+    h1 {
+        font-size: 32px;
+        padding-top: 0;
+    }
+    .text{
+        font-size: 13px;
+        width: 220px;
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 20px;
+    }
+    header{
+        margin: 10px;
+    }
+
+    .header-text > *{
+        display: inline-block;
+        margin: 10px 15px 20px 0;
+        font-size: 15px;
+    }
+
+    .image {
+        display: none;
+    }
+}
+@media screen and (max-width:799px) and (min-width:500px) {
+    #container{
+        width: 550px;
+    }
+    h1 {
+        font-size: 32px;
+        padding-top: 0;
+        margin-bottom: 10px;
+        display: block;
+    }
+    .text{
+        font-size: 13px;
+        width: 220px;
+        display: inline-block;
+        vertical-align: top;
+        margin: 10px;
+    }
+    header{
+        margin: 10px;
+    }
+    .header-text{
+        margin: 0;
+    }
+    .header-text > *{
+        display: block;
+        margin-top: 5px;
+        font-size: 12px;
+    }
+    .aboutMe{
+        width: 480px;
+        margin-bottom: 20px;
+    }
+    .image {
+        display: none;
+    }
+    .references{
+        margin-left: 65px;
+    }
+}
+@media screen and (max-width:499px) and (min-width:300px) {
+    #container{
+        width: 350px;
+    }
+    h1 {
+        font-size: 32px;
+        padding-top: 0;
+        margin-bottom: 10px;
+        display: block;
+    }
+    .text{
+        font-size: 13px;
+        width: 300px;
+        display: inline-block;
+        vertical-align: top;
+        margin: 10px;
+    }
+    header{
+        margin: 10px;
+    }
+    .header-text{
+        margin: 0;
+    }
+    .header-text > *{
+        display: block;
+        margin-top: 5px;
+        font-size: 12px;
+    }
+    .aboutMe{
+        width: 300px;
+        margin-bottom: 20px;
+    }
+    .image {
+        display: none;
+    }
+    #timeline{
+        display: none;
+    }
+
+}

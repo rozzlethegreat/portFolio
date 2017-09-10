@@ -1,0 +1,338 @@
+*{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Bitter';
+}
+
+a{
+    color: black;
+}
+
+#masterContainer{
+    width: 1450px;
+    margin: 20px auto;
+}
+
+#logo{
+    font-size: 26px;
+}
+
+.sub-heading{
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.nav-bar ul li{
+    display: inline-block;
+    margin: 10px 15px 20px 0;
+    font-size: 18px;
+}
+
+.codeMargin{
+    margin: 5px;
+}
+
+.heading{
+    font-size: 50px;
+    font-style: italic;
+}
+
+#aboutMeText{
+    margin-top: 50px;
+    width: 700px;
+    font-size: 13px;
+    margin-bottom: 60px;
+}
+
+.links a{
+    margin-top: 10px;
+    display: block;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.links-code-page{
+    margin: 0 20px 40px 0;
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#imageOfMe{
+    position: absolute;
+    top: 170px;
+    left: 1020px;
+}
+
+.images{
+    text-align: center;
+}
+
+#selectedPage{
+    text-decoration: underline;
+}
+
+.title{
+    font-style: italic;
+    text-align: center;
+    font-size: 20px;
+    border: solid 1px;
+    padding: 2px;
+    margin: 15px 0 15px 0;
+}
+
+#subtitleVideo{
+    height: 500px;
+    width: 700px;
+    border: solid 1px black;
+    display: inline-block;
+}
+
+#subtitleText{
+    width: 400px;
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 15px;
+}
+
+#codeText{
+    width: 400px;
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 15px;
+}
+
+#aboveText{
+    width: 600px;
+    display: inline-block;
+    font-size: 13px;
+    margin: 20px 0 20px 0;
+}
+
+.process{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.twinProcess{
+    width: 250px;
+}
+
+.typeProcess{
+    width: 500px;
+}
+
+.sharkProcess{
+    width: 560px;
+    text-align: right;
+}
+
+.sleepProcess{
+    margin-top: 25px;
+}
+
+.sub-bar ul > *{
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.sub-bar ul{
+    display: inline-block;
+}
+
+#filter{
+    display: inline-block;
+    font-style: italic;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.mixitup-control-active {
+    color: #575757;
+}
+@media screen and (max-width:1650px) and (min-width:1450px) {
+    #subtitleText{
+        width: 300px;
+    }
+    #masterContainer{
+        width: 1100px;
+        align-content: center;
+    }
+    #imageOfMe{
+        top: 170px;
+        left: 980px;
+    }
+    .typeProcess{
+        margin-top: 20px;
+    }
+    .sharkProcess{
+        width: 700px;
+        text-align: left;
+        margin-top: 20px;
+    }
+    #codeText{
+        width: 600px;
+        margin: 20px 0 20px 0;
+    }
+}
+@media screen and (max-width:1449px) and (min-width:1200px) {
+    #subtitleText{
+        width: 300px;
+    }
+    #masterContainer{
+        width: 1100px;
+        align-content: center;
+    }
+    #imageOfMe{
+        top: 170px;
+        left: 900px;
+    }
+    .typeProcess{
+        margin-top: 20px;
+    }
+    .sharkProcess{
+        width: 700px;
+        text-align: left;
+        margin-top: 20px;
+    }
+    #codeText{
+        width: 600px;
+        margin: 20px 0 20px 0;
+    }
+    .smallImages{
+        width: 800px;
+    }
+}
+
+@media screen and (max-width:1199px) and (min-width:1000px) {
+    #imageOfMe{
+        display: none;
+    }
+    #subtitleText{
+        margin-top: 20px;
+        width: 300px;
+    }
+    #masterContainer{
+        width: 900px;
+    }
+    .twinProcess, .typeProcess{
+        margin-top: 20px;
+    }
+    .sharkProcess{
+        width: 700px;
+        text-align: left;
+        margin-top: 20px;
+    }
+    #codeText{
+        width: 600px;
+        margin: 20px 0 20px 0;
+    }
+    .smallImages{
+        width: 700px;
+    }
+}
+
+@media screen and (max-width:999px) and (min-width:800px) {
+    #subtitleText{
+        margin: 20px 0 20px 0;
+        width: 500px;
+    }
+    #imageOfMe{
+        display: none;
+    }
+    #masterContainer{
+        width: 700px;
+    }
+    .sharkProcess{
+        width: 700px;
+        text-align: left;
+    }
+    #codeText{
+        width: 600px;
+        margin: 20px 0 20px 0;
+    }
+    .smallImages{
+        width: 600px;
+    }
+}
+
+@media screen and (max-width:799px) and (min-width:600px) {
+    #imageOfMe{
+        display: none;
+    }
+    #aboutMeText{
+        width: 500px;
+    }
+    #masterContainer{
+        width: 550px;
+    }
+    #subtitleText{
+        margin: 20px 0 20px 0;
+        width: 500px;
+    }
+    .sharkProcess{
+        width: 600px;
+        text-align: left;
+    }
+    #codeText{
+        width: 400px;
+        margin: 20px 0 20px 0;
+    }
+    #aboveText{
+        width: 500px;
+    }
+    .smallImages{
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:599px) and (min-width:400px) {
+    #masterContainer{
+        margin: 10px;
+    }
+    #imageOfMe{
+        display: none;
+    }
+    #aboutMeText{
+        width: 380px;
+    }
+    .nav-bar ul li{
+        font-size: 13px;
+        margin: 5px 10px 10px 0;
+    }
+    #masterContainer{
+        width: 380px;
+        margin-bottom: 40px;
+    }
+    #subtitleText{
+        margin: 10px;
+        width: 350px;
+    }
+    .typeProcess a {
+        display: block;
+        margin-bottom: 10px;
+    }
+    .sharkProcess{
+        width: 400px;
+        text-align: center;
+    }
+    #codeText{
+        width: 400px;
+        margin: 20px 0 20px 0;
+    }
+    #aboveText{
+        width: 350px;
+    }
+    .smallImages{
+        width: 350px;
+    }
+    .mainWidth{
+        height: auto;
+        width: 350px;
+        margin: 10px;
+    }
+}
