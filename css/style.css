@@ -163,7 +163,6 @@ a{
         align-content: center;
     }
     #imageOfMe{
-        top: 170px;
         left: 980px;
     }
     .typeProcess{
@@ -189,7 +188,7 @@ a{
     }
     #imageOfMe{
         top: 170px;
-        left: 900px;
+        left: 860px;
     }
     .typeProcess{
         margin-top: 20px;
