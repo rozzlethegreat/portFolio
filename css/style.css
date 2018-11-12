@@ -3,7 +3,7 @@
     padding:0;
     list-style-type: none;
     text-decoration: none;
-    font-family: 'Bitter';
+    font-family: 'Inconsolata', monospace;
 }
 
 a{
@@ -68,6 +68,10 @@ a{
 
 .images{
     text-align: center;
+}
+
+.mainWidth{
+    padding-bottom: 5px;
 }
 
 #selectedPage{
@@ -257,6 +261,11 @@ a{
     .smallImages{
         width: 600px;
     }
+    .mainWidth{
+        height: auto;
+        width: 500px;
+        padding-bottom: 10px;
+    }
 }
 
 @media screen and (max-width:799px) and (min-width:600px) {
@@ -287,9 +296,13 @@ a{
     .smallImages{
         width: 500px;
     }
+    .mainWidth{
+        height: auto;
+        width: 450px;
+    }
 }
 
-@media screen and (max-width:599px) and (min-width:400px) {
+@media screen and (max-width:599px) and (min-width:0px) {
     #masterContainer{
         margin: 10px;
     }
@@ -332,6 +345,7 @@ a{
     .mainWidth{
         height: auto;
         width: 350px;
-        margin: 10px;
+        padding-bottom: 10px;
+        margin: 0 10px;
     }
 }
