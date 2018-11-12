@@ -1,5 +1,5 @@
 
-<h1 id="logo"><a href="../index.php">Rosalind Cervante</a></h1>
+<h1 id="logo"><a href="../index.html">Rosalind Cervante</a></h1>
 <h5 class="sub-heading"><a href="mailto:rosalind@cervante.me">email: rosalind@cervante.me</a><br />Web Designer / Graphic Designer<br />Wellington, New Zealand</h5>
 <div class="nav-bar">
     <ul>
