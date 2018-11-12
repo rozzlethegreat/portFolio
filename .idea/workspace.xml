@@ -2,9 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc93e3a8-5eda-49c3-8d9d-87461ce439e5" name="Default" comment="update cv">
-      <change beforePath="$PROJECT_DIR$/incl/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/incl/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/incl/subpage-header.php" beforeDir="false" afterPath="$PROJECT_DIR$/incl/subpage-header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/aboutMe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/artwork.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/coding.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/design.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/photog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/acc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/bnz.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/brno.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/card.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/clme.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/enlargement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/goos.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/homeControl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/insomnia.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/inthefuture.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/maps.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/pattern.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/pearltacular.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/sharkFin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/twinPoster.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/type-numbers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlPages/subPages/type.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coding/svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/painting/outWindow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pamphlet/pamphlet-back-v1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pamphlet/pamphlet-back-v2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pamphlet/pamphlet-front-v1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pamphlet/pamphlet-front-v2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pamphlet/teaser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/insomnia/insomnia1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/insomnia/insomnia2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/insomnia/insomnia3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/insomnia/insomniaMain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/other/light1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/other/photography1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/other/photography2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/other/photography3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/other/photography5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photography/other/photography6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/websites/card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/websites/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/websites/shopping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/insomnia/insomnia1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/insomnia/insomnia2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/insomnia/insomnia3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/insomnia/insomniaMain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/other/light1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/other/photography1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/other/photography2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/other/photography3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/other/photography5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/photography/other/photography6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/websites/card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesLarge/websites/shopping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,18 +73,18 @@
     <session id="-1576365542">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="91" />
-          <entry key="html" value="465" />
+          <entry key="html" value="549" />
           <entry key="js" value="32" />
           <entry key="php" value="3296" />
           <entry key="txt" value="9" />
@@ -39,7 +93,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="91" />
-          <entry key="HTML" value="465" />
+          <entry key="HTML" value="549" />
           <entry key="JavaScript" value="32" />
           <entry key="PHP" value="3296" />
           <entry key="PLAIN_TEXT" value="9" />
@@ -48,7 +102,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="5" />
-          <entry key="HTML" value="5" />
+          <entry key="HTML" value="27" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="2" />
           <entry key="PHP" value="50" />
@@ -59,7 +113,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="5" />
-          <entry key="html" value="5" />
+          <entry key="html" value="27" />
           <entry key="js" value="2" />
           <entry key="php" value="51" />
           <entry key="png" value="1" />
@@ -76,37 +130,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/acc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/incl/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/incl/subpage-header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmlPages/design.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="66" />
+              <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -114,53 +141,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/incl/head.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="74" selection-start-line="2" selection-end-line="3" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/incl/subpage-head.php">
+        <entry file="file://$PROJECT_DIR$/htmlPages/aboutMe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="117">
+              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="38" column="153" lean-forward="true" selection-start-line="38" selection-start-column="153" selection-end-line="38" selection-end-column="153" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmlPages/coding.php">
+        <entry file="file://$PROJECT_DIR$/htmlPages/artwork.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/maps.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="44" selection-start-line="12" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="39" selection-start-line="11" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htmlPages/subPages/homeControl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+            <state relative-caret-position="77">
+              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -202,29 +211,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/htmlPages/subPages/type.html" />
-        <option value="$PROJECT_DIR$/htmlPages/artwork.html" />
-        <option value="$PROJECT_DIR$/htmlPages/photog.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/card.html" />
-        <option value="$PROJECT_DIR$/images/websites/spca.html" />
-        <option value="$PROJECT_DIR$/htmlPages/coding.html" />
-        <option value="$PROJECT_DIR$/../../cv/index.html" />
-        <option value="$PROJECT_DIR$/htmlPages/design.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/homeControl.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/maps.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/spca.html" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/pamphlet.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/type-numbers.html" />
-        <option value="$PROJECT_DIR$/cv/script/script.js" />
-        <option value="$PROJECT_DIR$/cv/css/style.css" />
-        <option value="$PROJECT_DIR$/cv/cv.html" />
-        <option value="$PROJECT_DIR$/htmlPages/aboutMe.html" />
-        <option value="$PROJECT_DIR$/incl/head.php" />
         <option value="$PROJECT_DIR$/htmlPages/photog.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/htmlPages/subPages/brno.html" />
         <option value="$PROJECT_DIR$/incl/subpage-head.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/incl/footer.php" />
@@ -253,6 +241,27 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/incl/subpage-header.php" />
         <option value="$PROJECT_DIR$/incl/header.php" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/acc.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/bnz.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/brno.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/clme.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/enlargement.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/goos.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/homeControl.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/inthefuture.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/maps.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/pattern.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/pearltacular.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/sharkFin.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/twinPoster.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/type.html" />
+        <option value="$PROJECT_DIR$/htmlPages/subPages/type-numbers.html" />
+        <option value="$PROJECT_DIR$/htmlPages/aboutMe.html" />
+        <option value="$PROJECT_DIR$/htmlPages/artwork.html" />
+        <option value="$PROJECT_DIR$/htmlPages/design.html" />
+        <option value="$PROJECT_DIR$/htmlPages/coding.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -417,17 +426,17 @@
       <workItem from="1541535165334" duration="30000" />
       <workItem from="1541719363854" duration="7809000" />
       <workItem from="1541974550295" duration="47000" />
+      <workItem from="1542054787392" duration="868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89160000" />
+    <option name="totallyTimeSpent" value="90153000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="715" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="716" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21728595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21683876" />
       <window_info id="Structure" order="1" weight="0.2494043" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -456,114 +465,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/htmlPages/coding.html" />
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="64" selection-end-line="42" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/card.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../cv/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/maps.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/spca.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/enlargement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="64" selection-end-line="46" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/design.html" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/header.php" />
-    <entry file="file://$PROJECT_DIR$/cv/script/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type-numbers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv/cv.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="64" lean-forward="true" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/aboutMe.html" />
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/homeControl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pamphlet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/design/twinPoster-mockup-background.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/brno.html" />
-    <entry file="file://$PROJECT_DIR$/incl/footer.php" />
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htmlPages/photog.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -571,69 +472,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/enlargement.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="71" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/inthefuture.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pearltacular.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" selection-start-line="11" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/twinPoster.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pamphlet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pattern.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type-numbers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="14" column="31" lean-forward="true" selection-end-line="37" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/sharkFin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="31" column="104" selection-start-line="31" selection-start-column="104" selection-end-line="31" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/goos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/enlargement.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/inthefuture.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pearltacular.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/twinPoster.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pamphlet.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pattern.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type-numbers.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/sharkFin.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/goos.php" />
     <entry file="file://$PROJECT_DIR$/htmlPages/subPages/brno.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -648,27 +495,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/clme.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/spca.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="94" selection-start-line="21" selection-start-column="94" selection-end-line="21" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/clme.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/spca.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.php" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
@@ -676,13 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/bnz.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" selection-start-line="5" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/bnz.php" />
     <entry file="file://$PROJECT_DIR$/htmlPages/aboutMe.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -690,24 +513,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/maps.php">
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/maps.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/homeControl.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="44" selection-start-line="12" selection-end-line="13" />
+        <state relative-caret-position="262">
+          <caret line="41" column="105" selection-start-line="41" selection-start-column="105" selection-end-line="41" selection-end-column="105" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/homeControl.php">
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/acc.php" />
+    <entry file="file://$PROJECT_DIR$/htmlPages/design.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="39" selection-start-line="11" selection-end-line="12" />
+        <state relative-caret-position="855">
+          <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -718,52 +538,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/design.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="41" column="105" selection-start-line="41" selection-start-column="105" selection-end-line="41" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/acc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/incl/head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="74" selection-start-line="2" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/incl/subpage-head.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/acc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/brno.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/bnz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/clme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/enlargement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/goos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="70" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/incl/subpage-header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <caret line="1" selection-start-line="1" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/homeControl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/inthefuture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/maps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pattern.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/pearltacular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/sharkFin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/subtitleVideo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/twinPoster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/subPages/type-numbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/incl/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/incl/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/design.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/coding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/artwork.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlPages/aboutMe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="38" column="153" lean-forward="true" selection-start-line="38" selection-start-column="153" selection-end-line="38" selection-end-column="153" />
         </state>
       </provider>
     </entry>
